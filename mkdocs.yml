@@ -1,0 +1,9 @@
+site_name: Garrett
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Resume: about.md
+theme: readable
+repo_url: https://github.com/donorliza/site_repo
+site_description: Garrett's portfolio
+site_author: Garrett
